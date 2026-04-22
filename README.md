@@ -1,4 +1,4 @@
-Đây là dự án CMS viết blog dành cho Admin và User sử dụng Angular Frontend UI có sẵn của Core UI Angular, Backend .NET 8 sử dụng swwagger để test API, Database dùng SQL SERVER.
+Đây là dự án CMS viết blog dành cho Admin và User sử dụng Angular Frontend UI có sẵn của Core UI Angular, Backend .NET 8 sử dụng swagger để test API, Database dùng SQL SERVER.
 
 Tab Hệ thống
 Trang quản lý người dùng(Admin)
